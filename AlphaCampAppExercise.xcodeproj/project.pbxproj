@@ -12,6 +12,19 @@
 		9FCB08711D17BECA00641C29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FCB086F1D17BECA00641C29 /* Main.storyboard */; };
 		9FCB08731D17BECA00641C29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FCB08721D17BECA00641C29 /* Assets.xcassets */; };
 		9FCB08761D17BECA00641C29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FCB08741D17BECA00641C29 /* LaunchScreen.storyboard */; };
+		9FF9AE6E1D1EB7A8007E75E4 /* AboutACViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE6D1D1EB7A8007E75E4 /* AboutACViewController.swift */; };
+		9FF9AE701D1EBA54007E75E4 /* AboutAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE6F1D1EBA54007E75E4 /* AboutAC.swift */; };
+		9FF9AE721D201652007E75E4 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE711D201652007E75E4 /* Event.swift */; };
+		9FF9AE791D201F61007E75E4 /* CustomEventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE771D201F61007E75E4 /* CustomEventTableViewCell.swift */; };
+		9FF9AE7A1D201F61007E75E4 /* CustomEventTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FF9AE781D201F61007E75E4 /* CustomEventTableViewCell.xib */; };
+		9FF9AE7C1D202080007E75E4 /* EventTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE7B1D202080007E75E4 /* EventTableViewController.swift */; };
+		9FF9AE7E1D2025FC007E75E4 /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE7D1D2025FC007E75E4 /* IntroViewController.swift */; };
+		9FF9AE801D2026CC007E75E4 /* EventWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE7F1D2026CC007E75E4 /* EventWebViewController.swift */; };
+		9FF9AE881D2031F9007E75E4 /* Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE871D2031F9007E75E4 /* Class.swift */; };
+		9FF9AE8C1D203741007E75E4 /* ClassTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE8B1D203741007E75E4 /* ClassTableViewController.swift */; };
+		9FF9AE8F1D2037D6007E75E4 /* CustomClassTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE8D1D2037D6007E75E4 /* CustomClassTableViewCell.swift */; };
+		9FF9AE901D2037D6007E75E4 /* CustomClassTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FF9AE8E1D2037D6007E75E4 /* CustomClassTableViewCell.xib */; };
+		9FF9AE921D203A27007E75E4 /* ClassWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF9AE911D203A27007E75E4 /* ClassWebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		9FCB08721D17BECA00641C29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FCB08751D17BECA00641C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FCB08771D17BECA00641C29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FF9AE6D1D1EB7A8007E75E4 /* AboutACViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutACViewController.swift; sourceTree = "<group>"; };
+		9FF9AE6F1D1EBA54007E75E4 /* AboutAC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutAC.swift; sourceTree = "<group>"; };
+		9FF9AE711D201652007E75E4 /* Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		9FF9AE771D201F61007E75E4 /* CustomEventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomEventTableViewCell.swift; sourceTree = "<group>"; };
+		9FF9AE781D201F61007E75E4 /* CustomEventTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomEventTableViewCell.xib; sourceTree = "<group>"; };
+		9FF9AE7B1D202080007E75E4 /* EventTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableViewController.swift; sourceTree = "<group>"; };
+		9FF9AE7D1D2025FC007E75E4 /* IntroViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
+		9FF9AE7F1D2026CC007E75E4 /* EventWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventWebViewController.swift; sourceTree = "<group>"; };
+		9FF9AE871D2031F9007E75E4 /* Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Class.swift; sourceTree = "<group>"; };
+		9FF9AE8B1D203741007E75E4 /* ClassTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassTableViewController.swift; sourceTree = "<group>"; };
+		9FF9AE8D1D2037D6007E75E4 /* CustomClassTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomClassTableViewCell.swift; sourceTree = "<group>"; };
+		9FF9AE8E1D2037D6007E75E4 /* CustomClassTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomClassTableViewCell.xib; sourceTree = "<group>"; };
+		9FF9AE911D203A27007E75E4 /* ClassWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +86,19 @@
 				9FCB08721D17BECA00641C29 /* Assets.xcassets */,
 				9FCB08741D17BECA00641C29 /* LaunchScreen.storyboard */,
 				9FCB08771D17BECA00641C29 /* Info.plist */,
+				9FF9AE6D1D1EB7A8007E75E4 /* AboutACViewController.swift */,
+				9FF9AE6F1D1EBA54007E75E4 /* AboutAC.swift */,
+				9FF9AE711D201652007E75E4 /* Event.swift */,
+				9FF9AE771D201F61007E75E4 /* CustomEventTableViewCell.swift */,
+				9FF9AE781D201F61007E75E4 /* CustomEventTableViewCell.xib */,
+				9FF9AE7B1D202080007E75E4 /* EventTableViewController.swift */,
+				9FF9AE7D1D2025FC007E75E4 /* IntroViewController.swift */,
+				9FF9AE7F1D2026CC007E75E4 /* EventWebViewController.swift */,
+				9FF9AE871D2031F9007E75E4 /* Class.swift */,
+				9FF9AE8B1D203741007E75E4 /* ClassTableViewController.swift */,
+				9FF9AE8D1D2037D6007E75E4 /* CustomClassTableViewCell.swift */,
+				9FF9AE8E1D2037D6007E75E4 /* CustomClassTableViewCell.xib */,
+				9FF9AE911D203A27007E75E4 /* ClassWebViewController.swift */,
 			);
 			path = AlphaCampAppExercise;
 			sourceTree = "<group>";
@@ -123,6 +162,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FCB08761D17BECA00641C29 /* LaunchScreen.storyboard in Resources */,
+				9FF9AE7A1D201F61007E75E4 /* CustomEventTableViewCell.xib in Resources */,
+				9FF9AE901D2037D6007E75E4 /* CustomClassTableViewCell.xib in Resources */,
 				9FCB08731D17BECA00641C29 /* Assets.xcassets in Resources */,
 				9FCB08711D17BECA00641C29 /* Main.storyboard in Resources */,
 			);
@@ -135,8 +176,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FF9AE881D2031F9007E75E4 /* Class.swift in Sources */,
+				9FF9AE8F1D2037D6007E75E4 /* CustomClassTableViewCell.swift in Sources */,
 				9FCB086E1D17BECA00641C29 /* ViewController.swift in Sources */,
+				9FF9AE801D2026CC007E75E4 /* EventWebViewController.swift in Sources */,
+				9FF9AE921D203A27007E75E4 /* ClassWebViewController.swift in Sources */,
+				9FF9AE7C1D202080007E75E4 /* EventTableViewController.swift in Sources */,
+				9FF9AE701D1EBA54007E75E4 /* AboutAC.swift in Sources */,
+				9FF9AE8C1D203741007E75E4 /* ClassTableViewController.swift in Sources */,
 				9FCB086C1D17BECA00641C29 /* AppDelegate.swift in Sources */,
+				9FF9AE791D201F61007E75E4 /* CustomEventTableViewCell.swift in Sources */,
+				9FF9AE6E1D1EB7A8007E75E4 /* AboutACViewController.swift in Sources */,
+				9FF9AE721D201652007E75E4 /* Event.swift in Sources */,
+				9FF9AE7E1D2025FC007E75E4 /* IntroViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +338,7 @@
 				9FCB087C1D17BECA00641C29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
